@@ -2,7 +2,7 @@ print("memo")
 #---repository---
 repository ="ファイルやディレクトリの状態を記録する場所。"
 localrepository = "自分のパソコンの中に作られる保管場所" 
-remoterepository ="自分以外のコンピュータの中にある、みんなで一緒に使う保管場所"
+remoterepository ="自分以外のコンピュータの中にある、みんなで一緒に使う保管場所aaaaa"
 #---command---
 clone = "リモコンリポジトリをローカルにコピーする"
 pull = "リモートリポジトリの内容をローカルリポジトリに取り込む"
